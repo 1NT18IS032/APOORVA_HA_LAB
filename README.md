@@ -1,1 +1,1 @@
-Hybrid Application Lab
+HYBRID APPLICATION LAB
